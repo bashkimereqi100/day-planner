@@ -1,0 +1,20 @@
+{
+  "name": "homework-five",
+  "version": "1.0.0",
+  "description": "homework-five\r ![act](https://github.com/bashkimereqi100/homework-five/blob/main/assets/css/day-planner3.gif)\r ![act](https://github.com/bashkimereqi100/homework-five/blob/main/assets/css/day-planner1.gif)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashkimereqi100/homework-five.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashkimereqi100/homework-five/issues"
+  },
+  "homepage": "https://github.com/bashkimereqi100/homework-five#readme",
+  "keywords": []
+}
